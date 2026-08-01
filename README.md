@@ -17,7 +17,7 @@ Stable provider-neutral machine translation contracts for Liberu Localization. T
 | `php` | `^8.5` |
 
 ```bash
-composer require liberu/localization-contracts
+composer require liberusoftware/localization-contracts
 ```
 
 ## Public surface
