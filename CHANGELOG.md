@@ -2,4 +2,4 @@
 
 ## 1.0.0
 
-- Introduce translation provider and registry contracts.
+- Initial stable localization provider contracts.
